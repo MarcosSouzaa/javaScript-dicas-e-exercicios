@@ -1,5 +1,4 @@
 //FUNÇÃO PRINCIPAL MAIN
-
 function main(){
     console.log('Programa Principal');    
 }
