@@ -38,7 +38,7 @@ function classificarImc(imc) {
 
 //USANDO A FUNÇÃO MAIN PARA ISOLAR O CÓDIGO
 function main() {
-const peso = 92;
+const peso = 87;
 const altura = 1.87;
 
 const imc = calcularImc(peso, altura);
