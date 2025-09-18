@@ -1,3 +1,5 @@
+//INCONSISTÊNCIA NA OPERAÇÃO NUMÉRICA
+
 let num1 = 1; //number
 let num2 = 2.5 //number
 
